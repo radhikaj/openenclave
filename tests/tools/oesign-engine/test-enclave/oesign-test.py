@@ -1,7 +1,7 @@
+#!/usr/bin/env python3
 # Copyright (c) Open Enclave SDK contributors.
 # Licensed under the MIT License.
 
-#!/usr/bin/env python3
 #  Run tests of oesign.
 #  We need this wrapper to return the correct return value from the tests, since
 #  several invocations of oesign are supposed to fail by design.
